@@ -330,7 +330,7 @@ ${chalk.bold.cyan('╰───────────────────�
                                                 name: "cta_url",
                                                 buttonParamsJson: JSON.stringify({
                                                     display_text: "📥 Dapatkan Script di GitHub",
-                                                    url: "https://github.com/Than-XS/Base-XS",
+                                                    url: "https://github.com/than-xs/Base-XS",
                                                     merchant_url: "https://github.com"
                                                 })
                                             }
@@ -387,7 +387,7 @@ ${chalk.bold.cyan('╰───────────────────�
                                                 name: "cta_url",
                                                 buttonParamsJson: JSON.stringify({
                                                     display_text: "🧩 Channel telegram",
-                                                    url: "https://t.me/than_offc",
+                                                    url: "https://t.me/room_xs",
                                                     merchant_url: "https://t.me"
                                                 })
                                             }
